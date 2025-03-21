@@ -50,7 +50,7 @@ Sou movida pela curiosidade e pelo desafio de transformar código em qualidade, 
   </div>
 
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viillen&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viillen&bg_color=0d1117&color=adb5bd&line=adb5bd&point=adb5bd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
