@@ -2,7 +2,7 @@
 
 **`Analista de Qualidade`**
 
-Olá! Me chamo Yasmim Kalfeltz, tenho 19 anos e sou de Florianópolis. Minha jornada na tecnologia começou há quatro anos, e desde então venho me aprofundando cada vez mais na área. Atualmente, curso Engenharia de Software na UniCesumar, com foco especial em qualidade de software e automação de testes. Tenho um grande interesse por testes automatizados e venho aprimorando minhas habilidades com Cypress para garantir aplicações mais robustas e eficientes.
+Olá! Me chamo Yasmim Kalfeltz, tenho 20 anos e sou de Florianópolis. Minha jornada na tecnologia começou há quatro anos, e desde então venho me aprofundando cada vez mais na área. Atualmente, curso Engenharia de Software na UniCesumar, com foco especial em qualidade de software e automação de testes. Tenho um grande interesse por testes automatizados e venho aprimorando minhas habilidades com Cypress para garantir aplicações mais robustas e eficientes.
 
 Sou movida pela curiosidade e pelo desafio de transformar código em qualidade, sempre buscando aprender e compartilhar conhecimento. 🚀
 
